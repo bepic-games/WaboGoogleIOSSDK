@@ -1,0 +1,11 @@
+framework module WaboGoogle {
+  umbrella header "WaboGoogle.h"
+  export *
+
+  module * { export * }
+}
+
+module WaboGoogle.Swift {
+  header "WaboGoogle-Swift.h"
+  requires objc
+}
