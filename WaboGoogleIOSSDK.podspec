@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "WaboGoogleIOSSDK"
-  spec.version="0.1.55"
+  spec.version="0.1.56"
   spec.summary = "Wabo SDK Google sdk"
   spec.description= <<-DESC
   Wabo SDK for Google
